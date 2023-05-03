@@ -5,7 +5,7 @@
 ### Clone the repository
 
 ```shell
-git clone git@github.com:juliendargelos/project.git
+git clone git@github.com:thejainsahab/Mini-Aspire-Api.git
 cd mini-aspire-api
 ```
 
